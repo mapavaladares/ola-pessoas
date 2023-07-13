@@ -4,12 +4,12 @@ Olá, meu nome é Marcos Valadares, mas pode chamar de MaPa, apelido legal, se q
 
 # Skill
 
--FullStack;
--Comunicativo e proativo;
--Era psicológo,inteligencia emocional e lidar com diferentes situações são minha rotina;
--Tecnicamente desenvolvo com JavaScript,React,HTML,CSS,DOM,SQL.
--Tenho interesse por Java e outras linguagens,estou sempre disposto a aprender algo novo e desafiador.
-<obs: As vezes o que está faltando na tua empresa é um MaPa pra achar os problemas :>
+-FullStack;<br>
+-Comunicativo e proativo;<br>
+-Era psicológo,inteligencia emocional e lidar com diferentes situações são minha rotina;<br>
+-Tecnicamente desenvolvo com JavaScript,React,HTML,CSS,DOM,SQL.<br>
+-Tenho interesse por Java e outras linguagens,estou sempre disposto a aprender algo novo e desafiador.<br>
+As vezes o que está faltando na tua empresa é um MaPa pra achar os problemas<br>
 
 # Contato
 
